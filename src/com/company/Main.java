@@ -10,6 +10,5 @@ public class Main {
         System.out.println("Yeah fuck this shit");
         System.out.println("Ekstra ekstra");
         System.out.println("Yayaya");
-        System.out.println("yayayayya")
     }
 }
