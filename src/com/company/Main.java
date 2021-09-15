@@ -6,5 +6,7 @@ public class Main {
 	// write your code here
         //deeznuts
         //Shiiiet
+        //I keep doing stupid shit in here
+        System.out.println("Yeah fuck this shit");
     }
 }
